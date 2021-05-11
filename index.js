@@ -28,8 +28,8 @@ var state = {
         winnerName: null
     },
     account: {
-        username: `seniorquico`,
-        tag: `5183`,
+        username: `Ase`,
+        tag: `1573`,
         level: 48,
         tickets: 37.64,
         streak: 12,
